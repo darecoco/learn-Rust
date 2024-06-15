@@ -8,3 +8,5 @@ I study Rust myself.
 ***
 공부한 자료들
 - [(Youtube) Easy Rust Korean](https://youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE&si=xAdeSAK677_dZ2z-)
+- [한국 러스트 사용자 모임](https://rust-kr.org/)
+	- [docs 번역](https://doc.rust-kr.org/)
